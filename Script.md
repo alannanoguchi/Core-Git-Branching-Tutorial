@@ -23,7 +23,11 @@ The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
 George met the Unicorn King who granted him magic powers.
+<<<<<<< HEAD
 Then George magically appeared in class.
+=======
+The Zookeeper arrived.
+>>>>>>> zookeeper
 The end.
 
 ## Cast
